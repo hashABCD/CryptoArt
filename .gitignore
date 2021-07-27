@@ -5,3 +5,5 @@ inputs/
 # IPython Notebook
 .ipynb_checkpoints
 *.ipynb
+
+.gitignore
