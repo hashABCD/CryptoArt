@@ -1,9 +1,13 @@
 #My Files
 inputs/
-
+Alien Project/
 
 # IPython Notebook
 .ipynb_checkpoints
 *.ipynb
 
 .gitignore
+
+
+*.png
+*.psd
